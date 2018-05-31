@@ -1,2 +1,2 @@
 ### Simple ad-hoc MySQL dump script:
-*example: TIME_DELTA=1380 DEBUG=1 MAIL_REC=vadimsloun@gmail.com MAIL_SENDER=notify@advance-esthetic.us ./mysqldump.sh*
+*example: TIME_DELTA=1380 DEBUG=1 MAIL_REC=handler@example.org MAIL_SENDER=notify@example.net ./mysqldump.sh*
