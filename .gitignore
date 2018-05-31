@@ -1,2 +1,2 @@
-*.swp
-*.swo
+*.s[uvw][a-z]
+.DS_Store
